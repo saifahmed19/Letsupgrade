@@ -1,2 +1,2 @@
 # Letsupgrade
-Assignment 2- day 2
+B7 Python
